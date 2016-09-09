@@ -1,2 +1,2 @@
-# lovelygeek-2011
-2011 version of my portfolio site
+# LovelyGeek, 2011
+This version of my portfolio site I came up with during my Portfolio 1 class at The Art Institute of California - Sacramento. While I had already settled on LovelyGeek as my brand, I had the opportunity to work on logo concepts and integrate it into an updated portfolio site in this class. I go into detail more on the brand <a href="http://thelovelygeek.com/portfolio-i/">here on my blog</a>.
